@@ -2,7 +2,7 @@
   "Post": {
     "title": "string",
     "views": "int",
-    "published": "EOQ",
+    "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
   },
